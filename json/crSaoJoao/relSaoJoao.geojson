@@ -1,0 +1,8 @@
+let areaRelSaoJoao = {
+"type": "FeatureCollection",
+"name": "relSaoJoao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "AREA RESERVACAO SAO JOAO", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -48.962148633642528, -16.387001561182149, 0.0 ], [ -48.958884340482683, -16.386881250815829, 0.0 ], [ -48.957751423379413, -16.386038289749141, 0.0 ], [ -48.956405059258692, -16.382395397947491, 0.0 ], [ -48.952101750609451, -16.380156434075751, 0.0 ], [ -48.953338510076648, -16.378113841420941, 0.0 ], [ -48.95369919328099, -16.377085854826241, 0.0 ], [ -48.958780106307323, -16.379546824795408, 0.0 ], [ -48.960098942463077, -16.37962978309595, 0.0 ], [ -48.962545457022657, -16.379273496350201, 0.0 ], [ -48.962148633642528, -16.387001561182149, 0.0 ] ] ] } }
+]
+}

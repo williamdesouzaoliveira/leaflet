@@ -1,0 +1,8 @@
+let areaBuritis = {
+"type": "FeatureCollection",
+"name": "buritis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "AREA CR BURITIS", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -48.907557971358692, -16.334204129704869, 0.0 ], [ -48.903267948028443, -16.336576784473991, 0.0 ], [ -48.902939190452393, -16.336493992917521, 0.0 ], [ -48.900613013432547, -16.338068406602339, 0.0 ], [ -48.899808609940109, -16.34033234754401, 0.0 ], [ -48.896465947827153, -16.337243904482548, 0.0 ], [ -48.896166646945041, -16.336405394939629, 0.0 ], [ -48.907098500638241, -16.330513564175071, 0.0 ], [ -48.907557971358692, -16.334204129704869, 0.0 ] ] ] } }
+]
+}

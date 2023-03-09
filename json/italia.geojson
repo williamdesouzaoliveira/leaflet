@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "italia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "AREA  RESERVACAO JARDIM ITALIA", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -48.910437623356771, -16.320903557628871, 0.0 ], [ -48.908472997181462, -16.323343041433191, 0.0 ], [ -48.90794360758197, -16.323179587670751, 0.0 ], [ -48.906267148459122, -16.32522058552702, 0.0 ], [ -48.905910442654232, -16.325027938961359, 0.0 ], [ -48.905667284884551, -16.325351999302612, 0.0 ], [ -48.901962391163828, -16.322955705171921, 0.0 ], [ -48.901001613819872, -16.3212758170584, 0.0 ], [ -48.904533539936828, -16.316763392411659, 0.0 ], [ -48.910437623356771, -16.320903557628871, 0.0 ] ] ] } }
+]
+}

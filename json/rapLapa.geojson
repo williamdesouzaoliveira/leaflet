@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"name": "rapLapa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "AREA RESERVACAO LAPA", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -49.013705143475761, -16.333415722770791, 0.0 ], [ -49.011495656267869, -16.332927633129451, 0.0 ], [ -49.013461534682143, -16.32441771977717, 0.0 ], [ -49.013643448415479, -16.321775793826649, 0.0 ], [ -49.014864996821309, -16.323197070192592, 0.0 ], [ -49.013705143475761, -16.333415722770791, 0.0 ] ] ] } }]}
